@@ -27,7 +27,7 @@
           p:suffix=".jsp" />
 
     <!--
-    The index controller.
+    Aqui van los controladores
     -->
     <bean name = "controller" class = "Controller.Controlador" />
     
