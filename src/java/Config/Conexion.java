@@ -18,5 +18,6 @@ public class Conexion {
         dataSource.setUrl("jdbc:mysql://localhost:3306/database");
         dataSource.setUsername("root");
         dataSource.setPassword("123");
+        return dataSource;
     }
 }
